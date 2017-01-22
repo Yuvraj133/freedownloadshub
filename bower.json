@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "homepage": "https://github.com/sujaykundu777/frontend",
+  "description": "Learn Front End Web Development from Scratch",
+  "main": "",
+  "authors": [
+    "Sujay Kundu"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "html5shiv": "^3.7.3"
+  }
+}
